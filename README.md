@@ -15,6 +15,8 @@ Airport Challenge
 About the Project:
 ------------------
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&background=000000&vCenter=true&multiline=true&width=1000&height=150&lines=class+Airport+%7B;++constructor(airportId%2C+planeObject+%3D+new+Plane(%60pl001%60%2C+false)%2C+capacity+%3D+10)+%7B;%7D;%7D)](https://git.io/typing-svg)
+
 - Airport control system
 - First challenge of Digital Futures training
 - Used TDD methodology
